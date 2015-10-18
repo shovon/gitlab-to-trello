@@ -1,5 +1,7 @@
 {
   "dependencies": {
-    "express": "^4.13.3"
+    "body-parser": "^1.14.1",
+    "express": "^4.13.3",
+    "node-trello": "^1.1.2"
   }
 }
