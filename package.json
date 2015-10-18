@@ -1,4 +1,7 @@
 {
+  "scripts": {
+    "start": "node app"
+  },
   "dependencies": {
     "body-parser": "^1.14.1",
     "express": "^4.13.3",
